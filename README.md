@@ -1,4 +1,4 @@
-# number-guessing-game
+# number-guessing-game-python
 
 Number Guessing Game (Python)
 
