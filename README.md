@@ -1,7 +1,7 @@
 # Number Guessing Game (Python)
 
 Introduction
-The Number Guessing Game is a Python application where the user predicts a randomly chosen number between 1 and 100. The game provides feedback for each guess and tracks total attempts. The user wins if they guess correctly within seven tries; otherwise, the machine wins.
+The Number Guessing Game is a Python application where the user predicts a randomly chosen number between 1 and 100. The game provides feedback for each guess and tracks total attempts. The user wins if they guess correctly within seven tries, otherwise, the computer wins.
 
 Aim
 To develop an engaging, user-friendly game that lets players guess a computer-generated number, modify settings, and view top scores. The project teaches important programming concepts like loops, conditionals, input validation, and random number generation.
@@ -49,14 +49,14 @@ Testing & Results
 - Methods were tested individually and integrated via menu navigation.
 - User evaluation ensured ease of input and navigation.
 - Correct input handling, high-score tracking, and error messages confirmed.
-- Game allows completion within seven attempts; scores saved and displayed accurately.
+- Game allows completion within seven attempts. Scores saved and displayed accurately.
 - Settings properly adjusted and applied.
 
 Problems & Solutions
-- Problem: Non-numeric or out-of-range inputs  
-  Solution: Added robust input validation  
-- Problem: Blank nickname  
-  Solution: Added nickname validation prompting user for a proper name
+- Problem: Non-numeric or out-of-range inputs.  
+  Solution: Added robust input validation.  
+- Problem: Blank nickname.
+  Solution: Added nickname validation prompting user for a proper name.
 
 Achievements
 - Fully functional game with user-friendly interface.
@@ -64,6 +64,6 @@ Achievements
 - Simple to maintain with well-organized code and documentation.
 
 Future Improvements
-- Add advanced options (number ranges, difficulty levels)
-- Multiplayer mode for multiple players
-- Graphical User Interface (GUI) for enhanced user experience
+- Add advanced options (number ranges, difficulty levels).
+- Multiplayer mode for multiple players.
+- Graphical User Interface (GUI) for enhanced user experience.
