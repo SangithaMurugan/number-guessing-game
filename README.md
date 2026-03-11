@@ -1,6 +1,4 @@
-# number-guessing-game-python
-
-Number Guessing Game (Python)
+# Number Guessing Game (Python)
 
 Introduction
 The Number Guessing Game is a Python application where the user predicts a randomly chosen number between 1 and 100. The game provides feedback for each guess and tracks total attempts. The user wins if they guess correctly within seven tries; otherwise, the machine wins.
